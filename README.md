@@ -1,0 +1,1 @@
+# ssp_de_algoritmia
